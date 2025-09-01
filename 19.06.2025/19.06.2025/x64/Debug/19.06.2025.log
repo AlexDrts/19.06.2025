@@ -1,0 +1,14 @@
+﻿  19.06.2025.cpp
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(24,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(49,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(77,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(85,26): warning C4018: >: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(93,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(109,26): warning C4018: >=: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(114,25): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(123,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(138,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(145,21): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(159,22): warning C4018: <: несоответствие типов со знаком и без знака
+C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\19.06.2025.cpp(180,21): warning C4018: <: несоответствие типов со знаком и без знака
+  19.06.2025.vcxproj -> C:\Users\arg50\Downloads\IT STEP\LESSONS\C++\DZ\19.06.2025\x64\Debug\19.06.2025.exe
